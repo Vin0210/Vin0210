@@ -56,15 +56,14 @@ Full-stack developer focused on building **practical, maintainable web applicati
 ## GitHub Statistics
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Vin0210&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D9488&icon_color=0D9488&text_color=C9D1D9" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vin0210&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=0D9488&text_color=C9D1D9" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vin0210&theme=tokyonight" alt="Profile Details" />
+  <br />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vin0210&theme=tokyonight" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Vin0210&theme=tokyonight" alt="Repos per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vin0210&theme=tokyonight" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Vin0210&theme=tokyonight&utcOffset=8" alt="Productive Time" />
   <br />
   <img src="https://streak-stats.demolab.com?user=Vin0210&theme=tokyonight&hide_border=true&background=0D1117&ring=0D9488&fire=0D9488&currStreakLabel=0D9488&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
-  <br /><br />
-  <!-- Activity graph: bars grow every day -->
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Vin0210&bg_color=0D1117&color=5BC0BE&line=0D9488&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
-  <br /><br />
-  <img src="https://github-profile-trophy.vercel.app/?username=Vin0210&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="Trophies" />
 </div>
 
 <!-- ===== 7. FEATURED PROJECTS ===== -->
