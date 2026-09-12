@@ -1,19 +1,14 @@
-<!-- ANIMATED GITHUB PROFILE README for @Vin0210 (Elvin Ramos) -->
-<!-- Copy ALL of this file into https://github.com/Vin0210/Vin0210/blob/main/README.md -->
-<!-- Also copy header.svg, footer.svg, divider.svg, terminal.svg into that repo's root -->
-<!-- Replace YOUR_LINKEDIN_URL, YOUR_PORTFOLIO_URL, YOUR_EMAIL, YOUR_GITLAB_URL at the bottom -->
 
-<!-- ===== 1. ANIMATED HEADER (self-hosted SVG: put header.svg in repo root next to README) ===== -->
 <img width="100%" src="./header.svg" alt="Elvin Ramos — Full-Stack Developer" />
 
-<!-- ===== 2. TYPING ANIMATION ===== -->
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=650&lines=Building+School+Management+Systems;Full-Stack+Laravel+%2B+React+Developer;Shipping+DentalOS+%26+SmashPoint;Designing+Practical+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
   </a>
   <br />
 
-<!-- ===== 3. LIVE COUNTERS (auto-update = feels animated) ===== -->
+
   <a href="https://github.com/Vin0210">
     <img src="https://komarev.com/ghpvc/?username=Vin0210&label=Profile%20Views&color=0D9488&style=for-the-badge" alt="Profile Views" />
   </a>
@@ -25,7 +20,7 @@
 
 <br />
 
-<!-- ===== 4. ABOUT + ANIMATED CODING GIF ===== -->
+
 ## About Me
 
 <img align="right" width="320" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -45,7 +40,7 @@ Full-stack developer focused on building **practical, maintainable web applicati
   <img width="100%" src="./terminal.svg" alt="Terminal" />
 </div>
 
-<!-- ===== 5. TECH STACK (animated on hover via skillicons) ===== -->
+
 ## Tech Stack
 
 <div align="center">
@@ -59,7 +54,7 @@ Full-stack developer focused on building **practical, maintainable web applicati
 
 <img width="100%" src="./divider.svg" alt="" />
 
-<!-- ===== 6. ANIMATED STATS ===== -->
+
 ## GitHub Statistics
 
 <div align="center">
@@ -75,7 +70,7 @@ Full-stack developer focused on building **practical, maintainable web applicati
 
 <img width="100%" src="./divider.svg" alt="" />
 
-<!-- ===== 7. FEATURED PROJECTS ===== -->
+
 ## Featured Projects
 
 | Project | What it is | Stack | Links |
@@ -87,7 +82,7 @@ Full-stack developer focused on building **practical, maintainable web applicati
 | **DriveRent** | Car rental + fleet dashboard (in progress) | Laravel, React, MySQL | [Code](https://github.com/Vin0210/Car-Rental) |
 | **Pokémon Web** | Pokédex + team builder + battle sim | React, CSS | [Live](https://pokemonhehe.netlify.app/) · [Code](https://github.com/Vin0210/Pokemon) |
 
-<!-- ===== 7b. WORK EXPERIENCE (your GitLab work, showcased manually) ===== -->
+
 ## Work Experience
 
 **Developer & Maintainer @ Itech Rar, Inc.** — *RMMC System (in production, [live site](https://rmmcmain.com/))*
@@ -101,7 +96,7 @@ Full-stack developer focused on building **practical, maintainable web applicati
 
 <img width="100%" src="./divider.svg" alt="" />
 
-<!-- ===== 8. SNAKE ANIMATION (eats your contributions) ===== -->
+
 ## Contribution Activity
 
 <div align="center">
@@ -116,7 +111,7 @@ Full-stack developer focused on building **practical, maintainable web applicati
 
 <img width="100%" src="./divider.svg" alt="" />
 
-<!-- ===== 9. CONNECT ===== -->
+
 ## Connect
 
 <div align="center">
@@ -134,18 +129,6 @@ Full-stack developer focused on building **practical, maintainable web applicati
   </a>
 </div>
 
-<!-- ===== 10. ANIMATED FOOTER (self-hosted SVG: put footer.svg in repo root next to README) ===== -->
+
 <img width="100%" src="./footer.svg" alt="footer" />
 
-<!--
-═══════════════════════════════════════════════════
-SNAKE SETUP (one time, makes section 8 work):
-1. In repo Vin0210/Vin0210, create file: .github/workflows/snake.yml
-   (copy contents from snake.yml I gave you)
-2. Go to repo Settings > Actions > General > Workflow permissions
-   → check "Read and write permissions" → Save
-3. Go to Actions tab > run "Generate Snake" once manually.
-   A branch called "output" will be created with the animated SVGs.
-4. Done. Snake updates every 24h automatically.
-═══════════════════════════════════════════════════
--->
