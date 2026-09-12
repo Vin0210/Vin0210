@@ -1,5 +1,9 @@
+<!-- ANIMATED GITHUB PROFILE README for @Vin0210 (Elvin Ramos) -->
+<!-- Copy ALL of this file into https://github.com/Vin0210/Vin0210/blob/main/README.md -->
+<!-- Also copy header.svg, footer.svg, divider.svg, terminal.svg into that repo's root -->
+<!-- Replace YOUR_LINKEDIN_URL, YOUR_PORTFOLIO_URL, YOUR_EMAIL, YOUR_GITLAB_URL at the bottom -->
 
-<!-- ===== 1. ANIMATED HEADER  ===== -->
+<!-- ===== 1. ANIMATED HEADER (self-hosted SVG: put header.svg in repo root next to README) ===== -->
 <img width="100%" src="./header.svg" alt="Elvin Ramos — Full-Stack Developer" />
 
 <!-- ===== 2. TYPING ANIMATION ===== -->
@@ -9,7 +13,7 @@
   </a>
   <br />
 
-<!-- ===== 3. LIVE COUNTERS  -->
+<!-- ===== 3. LIVE COUNTERS (auto-update = feels animated) ===== -->
   <a href="https://github.com/Vin0210">
     <img src="https://komarev.com/ghpvc/?username=Vin0210&label=Profile%20Views&color=0D9488&style=for-the-badge" alt="Profile Views" />
   </a>
@@ -21,10 +25,8 @@
 
 <br />
 
-<!-- ===== 4. ABOUT ===== -->
+<!-- ===== 4. ABOUT + ANIMATED CODING GIF ===== -->
 ## About Me
-
-<img align="right" width="320" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Full-stack developer focused on building **practical, maintainable web applications**.
 
@@ -35,9 +37,11 @@ Full-stack developer focused on building **practical, maintainable web applicati
 - Currently learning **Advanced React, API architecture, modern web animations**
 - Open for **freelance, collaborations & junior dev roles**
 
-<br clear="both" />
+<div align="center">
+  <img width="100%" src="./terminal.svg" alt="Terminal" />
+</div>
 
-<!-- ===== 5. TECH STACK  ===== -->
+<!-- ===== 5. TECH STACK (animated on hover via skillicons) ===== -->
 ## Tech Stack
 
 <div align="center">
@@ -48,6 +52,8 @@ Full-stack developer focused on building **practical, maintainable web applicati
   <img src="https://img.shields.io/badge/MySQL-Database-0D9488?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Supabase-Backend-0D9488?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
 </div>
+
+<img width="100%" src="./divider.svg" alt="" />
 
 <!-- ===== 6. ANIMATED STATS ===== -->
 ## GitHub Statistics
@@ -63,6 +69,8 @@ Full-stack developer focused on building **practical, maintainable web applicati
   <img src="https://streak-stats.demolab.com?user=Vin0210&theme=tokyonight&hide_border=true&background=0D1117&ring=0D9488&fire=0D9488&currStreakLabel=0D9488&sideNums=C9D1D9&currStreakNum=C9D1D9&dates=C9D1D9" alt="GitHub Streak" />
 </div>
 
+<img width="100%" src="./divider.svg" alt="" />
+
 <!-- ===== 7. FEATURED PROJECTS ===== -->
 ## Featured Projects
 
@@ -75,19 +83,21 @@ Full-stack developer focused on building **practical, maintainable web applicati
 | **DriveRent** | Car rental + fleet dashboard (in progress) | Laravel, React, MySQL | [Code](https://github.com/Vin0210/Car-Rental) |
 | **Pokémon Web** | Pokédex + team builder + battle sim | React, CSS | [Live](https://pokemonhehe.netlify.app/) · [Code](https://github.com/Vin0210/Pokemon) |
 
-<!-- ===== 7b. WORK EXPERIENCE  ===== -->
+<!-- ===== 7b. WORK EXPERIENCE (your GitLab work, showcased manually) ===== -->
 ## Work Experience
 
-**Developer & Maintainer @ Itech Rar, Inc.** — *RMMC System ([live site](https://rmmcmain.com/))*
+**Developer & Maintainer @ Itech Rar, Inc.** — *RMMC System (in production, [live site](https://rmmcmain.com/))*
 
 - Maintain a school management system used by a real school: admissions, enrollment, registrar, finance & cashier, grading
 - Student & teacher portals, class scheduling, institutional analytics
 - Fixes and features ship to real users — production support + new modules
-- Stack: Laravel, MySQL, jQuery, Bootstrap
+- Stack: Laravel, MySQL, jQuery, Bootstrap, Node.js
 
 > Note: My day-to-day work commits live on my company's **GitLab**, so they don't appear in the green squares above. This section is how I show that work here — no proprietary code exposed.
 
-<!-- ===== 8. SNAKE ANIMATION  ===== -->
+<img width="100%" src="./divider.svg" alt="" />
+
+<!-- ===== 8. SNAKE ANIMATION (eats your contributions) ===== -->
 ## Contribution Activity
 
 <div align="center">
@@ -100,25 +110,27 @@ Full-stack developer focused on building **practical, maintainable web applicati
   <i>Note: the snake appears after you add the workflow file (one-time setup, 2 min). It updates daily automatically.</i>
 </div>
 
+<img width="100%" src="./divider.svg" alt="" />
+
 <!-- ===== 9. CONNECT ===== -->
 ## Connect
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/elvin-ramos-a347b2339/">
+  <a href="YOUR_LINKEDIN_URL">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://ramoselvin.netlify.app/">
+  <a href="YOUR_PORTFOLIO_URL">
     <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://gitlab.com/Vin0210">
+  <a href="YOUR_GITLAB_URL">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab (work)" />
   </a>
-  <a href="mailto:elvinramos454@gmail.com">
+  <a href="mailto:YOUR_EMAIL">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
-<!-- ===== 10. ANIMATED FOOTER  ===== -->
+<!-- ===== 10. ANIMATED FOOTER (self-hosted SVG: put footer.svg in repo root next to README) ===== -->
 <img width="100%" src="./footer.svg" alt="footer" />
 
 <!--
