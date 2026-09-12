@@ -2,8 +2,8 @@
 <!-- Copy ALL of this file into https://github.com/Vin0210/Vin0210/blob/main/README.md -->
 <!-- Replace YOUR_LINKEDIN_URL, YOUR_PORTFOLIO_URL, YOUR_EMAIL, YOUR_GITLAB_URL at the bottom -->
 
-<!-- ===== 1. ANIMATED HEADER WAVE ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=220&section=header&text=Elvin%20Ramos&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Laravel%20%26%20React&descSize=18&descAlignY=58&descAlign=center" alt="header" />
+<!-- ===== 1. ANIMATED HEADER (self-hosted SVG: put header.svg in repo root next to README) ===== -->
+<img width="100%" src="./header.svg" alt="Elvin Ramos — Full-Stack Developer" />
 
 <!-- ===== 2. TYPING ANIMATION ===== -->
 <div align="center">
@@ -121,8 +121,8 @@ Full-stack developer focused on building **practical, maintainable web applicati
   </a>
 </div>
 
-<!-- ===== 10. ANIMATED FOOTER WAVE ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0D9488&height=120&section=footer" alt="footer" />
+<!-- ===== 10. ANIMATED FOOTER (self-hosted SVG: put footer.svg in repo root next to README) ===== -->
+<img width="100%" src="./footer.svg" alt="footer" />
 
 <!--
 ═══════════════════════════════════════════════════
