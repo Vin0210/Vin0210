@@ -1,8 +1,5 @@
-<!-- ANIMATED GITHUB PROFILE README for @Vin0210 (Elvin Ramos) -->
-<!-- Copy ALL of this file into https://github.com/Vin0210/Vin0210/blob/main/README.md -->
-<!-- Replace YOUR_LINKEDIN_URL, YOUR_PORTFOLIO_URL, YOUR_EMAIL, YOUR_GITLAB_URL at the bottom -->
 
-<!-- ===== 1. ANIMATED HEADER (self-hosted SVG: put header.svg in repo root next to README) ===== -->
+<!-- ===== 1. ANIMATED HEADER  ===== -->
 <img width="100%" src="./header.svg" alt="Elvin Ramos — Full-Stack Developer" />
 
 <!-- ===== 2. TYPING ANIMATION ===== -->
@@ -12,7 +9,7 @@
   </a>
   <br />
 
-<!-- ===== 3. LIVE COUNTERS (auto-update = feels animated) ===== -->
+<!-- ===== 3. LIVE COUNTERS  -->
   <a href="https://github.com/Vin0210">
     <img src="https://komarev.com/ghpvc/?username=Vin0210&label=Profile%20Views&color=0D9488&style=for-the-badge" alt="Profile Views" />
   </a>
@@ -24,7 +21,7 @@
 
 <br />
 
-<!-- ===== 4. ABOUT + ANIMATED CODING GIF ===== -->
+<!-- ===== 4. ABOUT ===== -->
 ## About Me
 
 <img align="right" width="320" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -40,7 +37,7 @@ Full-stack developer focused on building **practical, maintainable web applicati
 
 <br clear="both" />
 
-<!-- ===== 5. TECH STACK (animated on hover via skillicons) ===== -->
+<!-- ===== 5. TECH STACK  ===== -->
 ## Tech Stack
 
 <div align="center">
@@ -78,19 +75,19 @@ Full-stack developer focused on building **practical, maintainable web applicati
 | **DriveRent** | Car rental + fleet dashboard (in progress) | Laravel, React, MySQL | [Code](https://github.com/Vin0210/Car-Rental) |
 | **Pokémon Web** | Pokédex + team builder + battle sim | React, CSS | [Live](https://pokemonhehe.netlify.app/) · [Code](https://github.com/Vin0210/Pokemon) |
 
-<!-- ===== 7b. WORK EXPERIENCE (your GitLab work, showcased manually) ===== -->
+<!-- ===== 7b. WORK EXPERIENCE  ===== -->
 ## Work Experience
 
-**Developer & Maintainer @ Itech Rar, Inc.** — *RMMC System (in production, [live site](https://rmmcmain.com/))*
+**Developer & Maintainer @ Itech Rar, Inc.** — *RMMC System ([live site](https://rmmcmain.com/))*
 
 - Maintain a school management system used by a real school: admissions, enrollment, registrar, finance & cashier, grading
 - Student & teacher portals, class scheduling, institutional analytics
 - Fixes and features ship to real users — production support + new modules
-- Stack: Laravel, MySQL, jQuery, Bootstrap, Node.js
+- Stack: Laravel, MySQL, jQuery, Bootstrap
 
 > Note: My day-to-day work commits live on my company's **GitLab**, so they don't appear in the green squares above. This section is how I show that work here — no proprietary code exposed.
 
-<!-- ===== 8. SNAKE ANIMATION (eats your contributions) ===== -->
+<!-- ===== 8. SNAKE ANIMATION  ===== -->
 ## Contribution Activity
 
 <div align="center">
@@ -121,7 +118,7 @@ Full-stack developer focused on building **practical, maintainable web applicati
   </a>
 </div>
 
-<!-- ===== 10. ANIMATED FOOTER (self-hosted SVG: put footer.svg in repo root next to README) ===== -->
+<!-- ===== 10. ANIMATED FOOTER  ===== -->
 <img width="100%" src="./footer.svg" alt="footer" />
 
 <!--
