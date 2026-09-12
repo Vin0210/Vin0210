@@ -104,16 +104,16 @@ Full-stack developer focused on building **practical, maintainable web applicati
 ## Connect
 
 <div align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/elvin-ramos-a347b2339/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://ramoselvin.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-0D9488?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="YOUR_GITLAB_URL">
+  <a href="https://gitlab.com/Vin0210">
     <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab (work)" />
   </a>
-  <a href="mailto:YOUR_EMAIL">
+  <a href="mailto:elvinramos454@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
