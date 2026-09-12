@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240">
+  <defs>
+    <linearGradient id="teal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0D9488"/>
+      <stop offset="0.5" stop-color="#14b8a6"/>
+      <stop offset="1" stop-color="#0D9488"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="#0D1117"/>
+  <text x="600" y="102" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="54" font-weight="700" letter-spacing="1" fill="#ffffff">Elvin Ramos</text>
+  <text x="600" y="138" text-anchor="middle" font-family="'Segoe UI', Arial, Helvetica, sans-serif" font-size="20" fill="#5BC0BE">Full-Stack Developer | Laravel and React</text>
+  <path d="M0,178 Q150,150 300,178 T600,178 T900,178 T1200,178 T1500,178 T1800,178 L1800,240 L0,240 Z" fill="#0f766e" opacity="0.55">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="11s" repeatCount="indefinite"/>
+  </path>
+  <path d="M0,192 Q150,168 300,192 T600,192 T900,192 T1200,192 T1500,192 T1800,192 L1800,240 L0,240 Z" fill="url(#teal)" opacity="0.9">
+    <animateTransform attributeName="transform" type="translate" from="0 0" to="-600 0" dur="7s" repeatCount="indefinite"/>
+  </path>
+</svg>
