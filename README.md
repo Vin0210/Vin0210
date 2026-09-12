@@ -28,6 +28,8 @@
 <!-- ===== 4. ABOUT + ANIMATED CODING GIF ===== -->
 ## About Me
 
+<img align="right" width="320" alt="coding gif" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 Full-stack developer focused on building **practical, maintainable web applications**.
 
 - Currently maintaining a **school management system in production** (RMMC)
@@ -36,6 +38,8 @@ Full-stack developer focused on building **practical, maintainable web applicati
 - Interested in **clean UI, system architecture, database design, interactive experiences**
 - Currently learning **Advanced React, API architecture, modern web animations**
 - Open for **freelance, collaborations & junior dev roles**
+
+<br clear="both" />
 
 <div align="center">
   <img width="100%" src="./terminal.svg" alt="Terminal" />
