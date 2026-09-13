@@ -105,8 +105,8 @@ Full-stack developer focused on building **practical, maintainable web applicati
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Vin0210/Vin0210/output/github-contribution-grid-snake.svg" />
     <img alt="snake eating contributions" src="https://raw.githubusercontent.com/Vin0210/Vin0210/output/github-contribution-grid-snake-dark.svg" />
   </picture>
-  <br />
-  <i>Note: the snake appears after you add the workflow file (one-time setup, 2 min). It updates daily automatically.</i>
+
+ 
 </div>
 
 <img width="100%" src="./divider.svg" alt="" />
