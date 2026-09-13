@@ -1,6 +1,3 @@
-# Save this as .github/workflows/snake.yml
-# INSIDE the repo: Vin0210/Vin0210 (your profile repo, NOT your portfolio repo)
-# Full path in that repo: .github/workflows/snake.yml
 
 name: Generate Snake
 
