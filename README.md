@@ -2,6 +2,7 @@
 <img width="100%" src="./header.svg" alt="Elvin Ramos — Full-Stack Developer" />
 
 
+
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=0D9488&center=true&vCenter=true&width=650&lines=Building+School+Management+Systems;Full-Stack+Laravel+%2B+React+Developer;Shipping+DentalOS+%26+SmashPoint;Designing+Practical+Web+Apps;Always+Learning+New+Things" alt="Typing SVG" />
